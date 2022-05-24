@@ -1,0 +1,44 @@
+# depslib dependency file v1.0
+1525660758 source:/home/nguyenhopquang/C++/Cuoi Ki/main.cpp
+	<SFML/Graphics.hpp>
+	<SFML/Audio.hpp>
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<string>
+
+1652799345 source:c:\users\dell\onedrive\desktop\carracing\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<string>
+	<SFML/Graphics.hpp>
+	<SFML/Audio.hpp>
+
+1652436568 source:c:\users\dell\onedrive\desktop\carracing\commonfunctions.cpp
+	"CommonFunctions.h"
+
+1652436554 c:\users\dell\onedrive\desktop\carracing\commonfunctions.h
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<string>
+	<SFML/Graphics.hpp>
+	<SFML/Audio.hpp>
+
+1652627698 source:c:\users\dell\onedrive\desktop\test.cpp
+	<SFML/Graphics.hpp>
+	<SFML/Audio.hpp>
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<string>
+
+1653298527 source:c:\users\dell\onedrive\desktop\racing dodge\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<string>
+	<SFML/Graphics.hpp>
+	<SFML/Audio.hpp>
+
