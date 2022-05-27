@@ -21,7 +21,7 @@ Cứ vượt qua 1 xe sẽ được tính 1 điểm.
 
 Trò chơi được chia ra thành các cấp độ khó dễ: Càng điểm cao thì tốc độ game sẽ càng nhanh.
 
-# Các tính năng: 
+# Các chức năng đã cài đặt: 
 Play: bắt đầu trò chơi
 
 About: hướng dẫn chơi
